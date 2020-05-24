@@ -69,8 +69,7 @@ setup(
         'pathos>=0.2.2.1',
         'msgpack>=0.3.0,<0.6',
         'msgpack-numpy<0.4.4.0',
-        'gensim==3.8.0',
-        'en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz'
+        'gensim==3.8.0'
     ],
     tests_require=[
         "pytest",
